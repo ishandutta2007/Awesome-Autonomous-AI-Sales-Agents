@@ -71,7 +71,7 @@ Welcome to the ultimate curated directory of **autonomous AI sales agents**, **o
 
 ## 🔓 Open-Source GitHub Projects 🛠️ 🔓 🌟
 
-*Sorted by GitHub Stars Count (Descending)* 🌟 📈
+*Sorted by GitHub_Stars_Count (Descending)* 🌟 📈
 
 - **[SalesGPT](https://github.com/filip-michalsky/SalesGPT)** [![Stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social&color=white)](https://github.com/filip-michalsky/SalesGPT/stargazers) 🌟  
   **Context-aware autonomous AI sales agent to automate conversations**, Apache-2.0 licensed. Features stateful conversation management across the entire sales stage pipeline (prospecting, qualification, value proposition, objection handling, closing). Supports custom product knowledge bases via vector databases, cold email drafting, and real-time voice integration with LiteLLM and LangChain. 🤖 💬
@@ -111,7 +111,7 @@ Contributions are warmly welcomed! Help keep this directory the premier resource
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add or update** entries in `README.md` following the tabular format and badge conventions.
-3. 🔗 Verify official documentation URLs, exact starting prices, and star counts.
+3. 🔗 Verify official documentation URLs, exact starting prices, and Stars_Counts.
 4. 🚀 Submit a **Pull Request** detailing your additions and rationale!
 
 ---
